@@ -1,4 +1,4 @@
-# Sturm-JEPA-1D
+# Psi-Jepa-1d
 
 Topology-preserving joint-embedding predictive learning for real, one-dimensional
 self-adjoint Schrödinger operators.
