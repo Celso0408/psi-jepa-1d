@@ -288,9 +288,3 @@ new artifacts. Copy any run you want to preserve before starting an identical ru
   safeguards therefore report fallback rather than hiding failure.
 - The notebook does not establish universal generalization to unseen operators.
 - `STANDARD` and `FULL` can exceed the practical duration of a single Colab session.
-
-## Suggested repository description
-
-> Topology-preserving JEPA surrogate for real 1D self-adjoint Schrödinger operators,
-> featuring exact Sturm node counts, target-free inference, GNN–KAN backbones, and
-> optional Rayleigh–Ritz refinement.
